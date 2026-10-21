@@ -1,6 +1,6 @@
 # Universidad ICEP · Lázaro Cárdenas
 
-Tarjeta web con oferta académica, modalidades, ubicación y contacto por WhatsApp con la **Lic. Erandy Hernandez**.
+Tarjeta web con oferta académica, modalidades, ubicación y contacto por WhatsApp con la **Lic. Erandy Hernández**.
 
 Sitio estático: `index.html` y `assets/`. Se publica con GitHub Pages desde la rama `main`, carpeta raíz.
 
